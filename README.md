@@ -3,7 +3,7 @@
 <h3 align="center">A Curious Final-Year Student Building Intelligent Solutions with Code</h3>
 <!-- Add this right below your name and introduction -->
 <p align="center">
-  <a href="[www.linkedin.com/in/rutuja-rahul-deuskar-079600290a](https://www.linkedin.com/in/rutuja-rahul-deuskar-079600290/)">
+  <a href="https://www.linkedin.com/in/rutuja-rahul-deuskar-079600290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rutujarahul05@gmail.com">
