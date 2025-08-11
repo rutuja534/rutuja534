@@ -11,7 +11,15 @@
 
 
 ### About Me 💡
-I'm a final-year Information Science and Engineering student with a deep fascination for the world of Artificial Intelligence and Machine Learning. My goal is to use this passion to build technology that doesn't just function, but learns and evolves to make a genuine impact. I believe the best way to understand a concept is to build it, so my academic journey has been a hands-on exploration of turning algorithms into practical applications. As I build, I'm also keenly aware of the need to protect, which has ignited an interest in Cyber Security.
+## About Me 💡
+I'm a final-year Information Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and working with data.  
+I love building technology that not only works but **learns, adapts, and makes a real-world impact**.  
+
+For me, the best way to understand a concept is to build it — turning algorithms into practical applications through hands-on experimentation.  
+Alongside AI/ML, I’m deeply curious about **cybersecurity** and how to protect the systems and insights we create.  
+
+Always learning, always building, always curious. 
+
 
 ### 🛠️ My Tech Stack
 
