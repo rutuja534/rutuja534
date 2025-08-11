@@ -11,7 +11,7 @@
 
 
 ### About Me 💡
-## About Me 💡
+
 I'm a final-year Information Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and working with data.  
 I love building technology that not only works but **learns, adapts, and makes a real-world impact**.  
 
