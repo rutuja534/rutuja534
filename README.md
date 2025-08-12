@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 
 
-### About Me 💡
+### About Me 
 
 I'm a final-year Information Science and Engineering student passionate about Artificial Intelligence, Machine Learning, working with data and Full-Stack Development.  I love building technology that not only works but **learns, adapts, and makes a real-world impact**.  For me, the best way to understand a concept is to build it by turning algorithms into practical applications through hands-on experimentation.  Alongside AI/ML, I’m deeply curious about **cybersecurity** and how to protect the systems and insights we create.  
 
